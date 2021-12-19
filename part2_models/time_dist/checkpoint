@@ -1,0 +1,2 @@
+model_checkpoint_path: "time_dist.ckpt"
+all_model_checkpoint_paths: "time_dist.ckpt"

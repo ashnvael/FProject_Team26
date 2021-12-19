@@ -1,0 +1,2 @@
+model_checkpoint_path: "large_ker.ckpt"
+all_model_checkpoint_paths: "large_ker.ckpt"
