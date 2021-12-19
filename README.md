@@ -12,14 +12,12 @@
     git clone https://github.com/ashnvael/FProject_Team26.git
     ```
 
-2. ALso in addition to the standard packages please install those 
+2. ALso in addition to the standard packages contained in the Colab envrionment, please install those 
 
     ```bash
-    pip install tensorflow
     pip install keras-tcn
     pip install ray['rllib']
     pip install nengolib
-    pip install keras-tcn
     ```
 
 3. ***IMPORTANT: In the source files of ```ray['rllib']``` just installed, please replace ```ray/rllib/models/modelv2.py``` by the ```modelv2.py``` file contained in this project. This file fixes (supposedly) a bug in one of the RLLIB functions.***
