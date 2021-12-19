@@ -34,4 +34,4 @@ Jupyter Notebooks are named after the section of the paper their results appear 
 
 3. Part 3 - In this part we were supposed to extract the features and feed them into the model. The first part shows how to load weights and extract the features. However, due to ineer intricacies of RLLIB I failed to make RLLIB accept the extracted features, and so this section is left without significant results. 
 
-To run evaluations, use the Jupyter notebooks containing ```eval``` in their names.
+To run evaluations, please navigate to the section of the jupyter Notebook titled '''Evaluation''', skipping the training part to directly proceed to the evluation.
